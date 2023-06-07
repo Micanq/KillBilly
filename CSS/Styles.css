@@ -1,0 +1,46 @@
+
+*{
+    background-color:transparent; 
+}
+.bg-img{
+    height: 120vh;
+   background-image: url(../img/img1.png);
+   background-size: cover;  
+}
+
+.navbar-collapse{
+    color:white;
+    background-color: transparent !important;
+	position: fixed;
+	text-align: center;
+}
+
+.bg-img2{
+    height: 110vh;
+   background-image: url(../img/img2.png);
+   background-size: cover;  
+   background-color: navy; 
+}
+
+.bg-img3{
+    height: 1000px;
+   background-color:#00FFFF;
+}
+
+.bg-img4{
+    height: 120vh;
+   background-image: url(../img/img3.png);  
+	background-size: cover;
+}
+
+
+
+.texto1{
+    width:50%;
+    font-size: 25px;
+}
+
+.texto2{
+    width:50%;
+    font-size: 40px;
+}
